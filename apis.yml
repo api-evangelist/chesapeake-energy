@@ -35,6 +35,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/chesapeake-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/chesapeake-energy
   - type: Website
