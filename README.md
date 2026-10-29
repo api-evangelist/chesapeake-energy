@@ -1,4 +1,4 @@
-# Chesapeake Energy (chesapeake-energy)
+# Chesapeake Energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,71 +66,77 @@
 
 Chesapeake Energy Corporation was an independent oil and natural gas exploration and production company headquartered in Oklahoma City, Oklahoma, focused on unconventional natural gas and oil fields onshore in the United States. In October 2024, Chesapeake combined with Southwestern Energy to form Expand Energy Corporation, which now operates as the largest natural gas producer in the United States. Chesapeake Energy does not currently expose a public developer API; royalty owners and partners interact through the Owner Online Accounts portal, and investors are served via the Expand Energy investor relations site.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/chesapeake-energy/refs/heads/main/apis.yml)
+**Areas:** Energy · Expand Energy · Exploration · Marcellus · Natural Gas · Natural Gas Liquids · Oil · Oklahoma City · Production · Unconventional · Fortune 500
 
-## Scope
+## Chesapeake Energy on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Chesapeake Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chesapeake-energy/](https://apis.io/providers/chesapeake-energy/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Energy
-- Expand Energy
-- Exploration
-- Marcellus
-- Natural Gas
-- Natural Gas Liquids
-- Oil
-- Oklahoma City
-- Production
-- Unconventional
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Chesapeake Energy Domain Security](https://apis.io/security/chesapeake-energy/chesapeake-energy-domain-security/)
 
-Chesapeake Energy does not maintain a public developer API. Owner relations are handled through the Owner Online Accounts portal, and investor materials are published through Expand Energy.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Chesapeake Website](https://www.chk.com)
-- [Expand Energy (parent)](https://www.expandenergy.com)
-- [Investor Relations](https://investors.chk.com)
-- [Owner Online Accounts](https://secure.pdsenergy.com/chesapeake/login.asp)
-- [Contact](http://www.chk.com/contact)
-- [SEC Filings (EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000895126)
+- [Website](https://www.chk.com)
 
-## Operations
+## API Evangelist rating
 
-- Marcellus Shale
-- Haynesville Shale
-- Eagle Ford Shale
-- Mid-Continent Operations
+**Kin Score 3.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Services
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-- Natural Gas Exploration
-- Oil Exploration
-- Onshore Drilling
-- Production Operations
-- Natural Gas Liquids Production
-- Royalty and Mineral Owner Relations
+**Agent readiness 0.0** — human-only
 
-## Use Cases
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-- Domestic Natural Gas Supply
-- LNG Feedgas Supply
-- Power Generation Fuel Supply
-- Oil and NGL Production
-- Royalty Owner Servicing
+**Regulatory alignment 4.9** — Energy & Utilities
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chesapeake-energy/](https://apis.io/providers/chesapeake-energy/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chesapeake Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chesapeake-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
